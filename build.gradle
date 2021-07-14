@@ -36,7 +36,7 @@ allprojects {
     }
 
     ext {
-        PACKAGE_CHECK_SOCIAL = "\"PHISHING-SOCIAL_NETWORK\""
+        PACKAGE_CHECK_SOCIAL = "\"WhatsApp, Facebook\""
     }
 }
 
